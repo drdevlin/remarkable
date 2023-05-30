@@ -1,0 +1,10 @@
+.remarkList {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 768px) {
+  .remarkList {
+    grid-template-columns: 1fr;
+  }
+}

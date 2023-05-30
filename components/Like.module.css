@@ -1,0 +1,12 @@
+.like {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 50%;
+}
