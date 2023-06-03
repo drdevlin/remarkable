@@ -5,6 +5,8 @@
   --light-rgb: 248, 237, 227;
   --dark-rgb: 61, 68, 60;
   --background-rgb: 162, 178, 159;
+  --bg-highlight-rgb: 166, 183, 163;
+  --bg-shade-rgb: 157, 173, 154;
 }
 
 body {

@@ -3,7 +3,7 @@
   position: fixed;
   display: flex;
   justify-content: space-between;
-  background-color: rgb(var(--background-rgb));
+  background-image: linear-gradient(rgb(var(--background-rgb)), rgb(var(--background-rgb)), rgb(var(--background-rgb), 0));
 }
 
 .nav, .after {
